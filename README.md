@@ -4,7 +4,6 @@
     Output: route of the fastest path and time comsumption.
     User Interface: correct spelling required; mispellation is not having search suggestion.
 This python file implements dijkstra algorithm onto the routing problem based on following map.
-![Stations.jpg](Stations.jpg)
  
 # Evironment
 Python 3.9
